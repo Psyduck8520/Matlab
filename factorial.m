@@ -1,6 +1,6 @@
+
 % realizar  un programa que permita calcular el fatorial de un numero 
 % solo debe poder  calcular   el factorial de numeros  positivos 
-
 clear 
 clc 
 numero=5;

@@ -1,0 +1,15 @@
+%graficadora de ecuaciones de segundo grado.
+% y= ax^2+bx +c 
+%y= 5x^2+9x +2
+clear 
+clc 
+x=-100:1:100
+a=5
+b=9
+c=2
+y=a*x.^2+b*x +c
+d= sqrt((b)^2)
+plot(x,y)
+
+
+
